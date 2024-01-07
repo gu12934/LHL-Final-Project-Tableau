@@ -49,3 +49,6 @@ This is a cleaned table of wildlife strikes from 2000-2015 in the United States.
 * try to make more predictions on wildfires that was gonna happen
 * see which species started becoming endangered due to wildfire strikes
 
+
+## Vieweable presentation
+* https://docs.google.com/presentation/d/19k--gXggCGmNY2nO_bPPxcc8yPAOQzwC-lT5t-rGKsM/edit#slide=id.g2a5d21df92d_1_80
