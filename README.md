@@ -52,3 +52,7 @@ This is a cleaned table of wildlife strikes from 2000-2015 in the United States.
 
 ## Vieweable presentation
 * https://docs.google.com/presentation/d/19k--gXggCGmNY2nO_bPPxcc8yPAOQzwC-lT5t-rGKsM/edit#slide=id.g2a5d21df92d_1_80
+
+## Viewable Dashboard on Tableau
+*https://public.tableau.com/app/profile/gurmol.sohi/viz/WAA_wildfires_project/Datastory?publish=yes
+*click on the wildfire per state on first page to adjust the dashboard
