@@ -16,7 +16,7 @@ In this project, we will combine and practice implementing what we have learned 
 ***
 * Part 1: Connecting to source data: (add dataset to tableau)
 * Part 2: Questions to answer: (what features are important)
-* Part 3: Drag different features into rows and columns (make graphs)
+* Part 3: Drag different features into rows and columns (make graphs, also make hierarchies)
 * Part 4: Add a legend (use show me tables and add filters) 
 * Part 5: Make a dashboard (add forecasting and cluster)
 * Part 6: Make a story
