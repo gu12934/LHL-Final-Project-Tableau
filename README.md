@@ -55,5 +55,5 @@ This is a cleaned table of wildlife strikes from 2000-2015 in the United States.
 ## Viewable Dashboard on Tableau
 * https://public.tableau.com/app/profile/gurmol.sohi/viz/WAA_wildfires_project/Datastory?publish=yes
   
-* click on the wildfire per state on first page to adjust the dashboard
+* click on the damage per state tab (first one) and then wildlife per state to adjust the dashboard and see it be interactive
   
