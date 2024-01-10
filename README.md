@@ -18,7 +18,9 @@ In this project, we will combine and practice implementing what we have learned 
 * Part 2: Questions to answer: (what features are important)
 * Part 3: Drag different features into rows and columns (make graphs)
 * Part 4: Add a legend (use show me tables and add filters) 
-* Part 5: Make a dashboard
+* Part 5: Make a dashboard (add forecasting and cluster)
+* Part 6: Make a story
+* Part 7: Deploy on tableau public and host on there
 ***
 
 ***
