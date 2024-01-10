@@ -34,7 +34,6 @@ This is a cleaned table of wildlife strikes from 2000-2015 in the United States.
 * Used these visualizations as it made it easier to see which states were being affected by what.
 * Main question: What was the damage per state and Who was more affected? I went through the prompts by focusing on the 3 features: effect, when, wildlife. I used my question and broke it into more insights and made graphs based on those!
 
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
 ## Challenges 
 * nothing being created when having rows and columns, abc values showing up
