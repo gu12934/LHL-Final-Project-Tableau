@@ -27,6 +27,13 @@ In this project, we will combine and practice implementing what we have learned 
 
 
 ## Results
+
+![image](https://github.com/gu12934/LHL-Final-Project-Tableau/assets/36687057/1b648072-510d-41e1-aaa2-e76ce99d68b5)
+
+![image](https://github.com/gu12934/LHL-Final-Project-Tableau/assets/36687057/2d36e995-581d-44b4-87f0-2c5a587ba4d6)
+
+![image](https://github.com/gu12934/LHL-Final-Project-Tableau/assets/36687057/484b20d4-f9b3-4b3e-9c1e-06592038c41b)
+
 Option 2
 
 FAA Wildlife Strikes, 2015:
