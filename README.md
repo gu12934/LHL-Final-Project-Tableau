@@ -1,5 +1,8 @@
 # Final-Project-Tableau
 
+![image](https://github.com/gu12934/LHL-Final-Project-Tableau/assets/36687057/462b0434-8eb2-4068-a177-093899308cea)
+
+
 ## Project/Goals
 ***
 In this project, we will combine and practice implementing what we have learned throughout this course, including:
