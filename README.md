@@ -3,7 +3,7 @@
 ![image](https://github.com/gu12934/LHL-Final-Project-Tableau/assets/36687057/462b0434-8eb2-4068-a177-093899308cea)
 
 
-## Project/Goals
+## Project/Goals🎈
 ***
 In this project, we will combine and practice implementing what we have learned throughout this course, including:
 
@@ -14,7 +14,7 @@ In this project, we will combine and practice implementing what we have learned 
 * Communicating insights with the correct visualizations
 
 ***
-## Process
+## Process⏩
 
 ***
 * Part 1: Connecting to source data: (add dataset to tableau)
@@ -29,7 +29,7 @@ In this project, we will combine and practice implementing what we have learned 
 ***
 
 
-## Results
+## Results🔍
 
 ![image](https://github.com/gu12934/LHL-Final-Project-Tableau/assets/36687057/1b648072-510d-41e1-aaa2-e76ce99d68b5)
 
@@ -50,24 +50,24 @@ This is a cleaned table of wildlife strikes from 2000-2015 in the United States.
 * Main question: What was the damage per state and Who was more affected? I went through the prompts by focusing on the 3 features: effect, when, wildlife. I used my question and broke it into more insights and made graphs based on those!
 
 
-## Challenges 
+## Challenges 🎱
 * nothing being created when having rows and columns, abc values showing up
 * pie chart had way too many categories so could not use it
 * at the beginning did not what questions to answer
 * understanding what features were important
 
 
-## Future Goals
+## Future Goals🥅
 * more visualizations and answer different questions
 * check with most recent wildfire data
 * try to make more predictions on wildfires that was gonna happen
 * see which species started becoming endangered due to wildfire strikes
 
 
-## Vieweable presentation
+## Vieweable presentation🌠
 * https://docs.google.com/presentation/d/19k--gXggCGmNY2nO_bPPxcc8yPAOQzwC-lT5t-rGKsM/edit#slide=id.g2a5d21df92d_1_80
 
-## Viewable Dashboard on Tableau
+## Viewable Dashboard on Tableau🌠
 * https://public.tableau.com/app/profile/gurmol.sohi/viz/WAA_wildfires_project/Datastory?publish=yes
   
 * click on the damage per state tab (first one) and then wildlife per state to adjust the dashboard and see it be interactive
